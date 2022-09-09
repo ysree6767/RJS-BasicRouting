@@ -2,10 +2,12 @@
 .header {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 50px;
 }
 .title-container {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
+  align-items: center;
 }
 .item-container {
   display: flex;
@@ -13,4 +15,9 @@
 }
 .nav-item {
   margin-right: 5px;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
 }
