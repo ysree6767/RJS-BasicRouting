@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #6d396b;
+}
